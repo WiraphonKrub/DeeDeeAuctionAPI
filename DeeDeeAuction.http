@@ -1,0 +1,6 @@
+@DeeDeeAuction_HostAddress = http://localhost:5152
+
+GET {{DeeDeeAuction_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
