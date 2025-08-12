@@ -34,6 +34,9 @@
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Mono.TextTemplating.dll
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Npgsql.dll
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Npgsql.EntityFrameworkCore.PostgreSQL.dll
+/Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/System.CodeDom.dll
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/System.Composition.AttributedModel.dll
 /Volumes/DataStore/Project Dev/Auction/DeeDeeAuction/bin/Debug/net9.0/System.Composition.Convention.dll
