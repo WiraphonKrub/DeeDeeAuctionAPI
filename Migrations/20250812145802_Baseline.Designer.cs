@@ -12,8 +12,8 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace DeeDeeAuction.Migrations
 {
     [DbContext(typeof(AppDbContext))]
-    [Migration("20250812132747_AddItemImageUrl")]
-    partial class AddItemImageUrl
+    [Migration("20250812145802_Baseline")]
+    partial class Baseline
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)

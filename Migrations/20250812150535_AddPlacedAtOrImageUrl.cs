@@ -5,7 +5,7 @@
 namespace DeeDeeAuction.Migrations
 {
     /// <inheritdoc />
-    public partial class AddItemImageUrl_Test : Migration
+    public partial class AddPlacedAtOrImageUrl : Migration
     {
         /// <inheritdoc />
         protected override void Up(MigrationBuilder migrationBuilder)
